@@ -1,0 +1,1 @@
+Usar JSX em algum arquivo tem que ser .tsx e não .ts
